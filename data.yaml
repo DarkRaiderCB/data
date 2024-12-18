@@ -5,5 +5,5 @@ names:
   3: phone
   4: calculator
   5: earphone
-path:
-train:
+train: /content/data/images/train
+val: /content/data/images/val
